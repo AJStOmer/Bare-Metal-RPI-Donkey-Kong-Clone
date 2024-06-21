@@ -24,6 +24,8 @@ Custom Graphics Driver: We developed a custom graphics driver to render the game
 
 Controller Driver Development: To interpret SNES controller inputs, we wrote custom drivers that convert button presses into actionable game controls. This required an in-depth understanding of both the SNES controller protocol and the Raspberry Pi’s input/output capabilities.
 
-As running this project is very niche and requires many components I have attached a video made by my partner showcasing our project, thank you for checking out our project!
+As running this project is very niche and requires many components I have attached a link to a video demonstration made by my partner showcasing our project, thank you for checking out our project!
+
+https://youtu.be/djv5C_ile6M
 
 
